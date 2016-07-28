@@ -3267,12 +3267,20 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u7081_img {
+#u7081_div {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u7081 {
   position:absolute;
@@ -3459,12 +3467,20 @@
   width:101px;
   white-space:nowrap;
 }
-#u7094_img {
+#u7094_div {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u7094 {
   position:absolute;
@@ -3867,12 +3883,20 @@
   width:27px;
   white-space:nowrap;
 }
-#u7120_img {
+#u7120_div {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u7120 {
   position:absolute;
@@ -4464,12 +4488,20 @@
   width:71px;
   white-space:nowrap;
 }
-#u7156_img {
+#u7156_div {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u7156 {
   position:absolute;
@@ -5031,12 +5063,20 @@
   width:17px;
   white-space:nowrap;
 }
-#u7191_img {
+#u7191_div {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u7191 {
   position:absolute;
@@ -6071,12 +6111,20 @@
   width:57px;
   white-space:nowrap;
 }
-#u7256_img {
+#u7256_div {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
 }
 #u7256 {
   position:absolute;
